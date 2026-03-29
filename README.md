@@ -80,7 +80,7 @@ During my internship, I designed and implemented the RFID tray tracking workflow
 ![Ignition Popup](images/ignition_onActionperformed_script.png)
 
 ### Test Case - Lot Found
-![Lot Found](images/result_popup.png)
+![Lot Found](images/result_popup.jpg)
 
 ### Test Case - Lot Not Found
-![Lot Not Found](images/result2_popup.png)
+![Lot Not Found](images/result2_popup.jpg)
