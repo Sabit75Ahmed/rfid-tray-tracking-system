@@ -68,3 +68,19 @@ During my internship, I designed and implemented the RFID tray tracking workflow
 - Scan Data Validation and Cleanup
 - Troubleshooting Hardware/Software Integration
 - MES-oriented Workflow Design
+## System Visualization
+
+### RFID Reader / Writer Setup
+![RFID Reader Setup](images/rfid_readerwriter.png)
+
+### RFID Tag 
+![RFID Write Screen](images/rfid_UHF_tag.png)
+
+### Ignition Perspective on Actionperformed script
+![Ignition Popup](images/ignition_onActionperformed_script.png)
+
+### Test Case - Lot Found
+![Lot Found](images/result_popup.png)
+
+### Test Case - Lot Not Found
+![Lot Not Found](images/result2_popup.png)
