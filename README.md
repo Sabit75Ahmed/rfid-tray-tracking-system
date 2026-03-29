@@ -82,3 +82,10 @@ During my internship, I designed and implemented the RFID tray tracking workflow
 
 ### Test Case - Lot Not Found
 ![Lot Not Found](images/result2_popup.jpg)
+
+## Code
+
+### Ignition Barcode Scanner Script
+The main scan-processing logic for the Barcode Scanner Input component is included here:
+
+- [ignition_barcode_scanner_onactionperformed.py](code/ignition_barcode_scanner_onactionperformed.py)
