@@ -73,8 +73,6 @@ During my internship, I designed and implemented the RFID tray tracking workflow
 ### RFID Reader / Writer Setup
 ![RFID Reader Setup](images/rfid_readerwriter.png)
 
-### RFID Tag 
-![RFID Write Screen](images/rfid_UHF_tag.png)
 
 ### Ignition Perspective on Actionperformed script
 ![Ignition Popup](images/ignition_onActionperformed_script.png)
