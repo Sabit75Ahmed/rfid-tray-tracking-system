@@ -89,3 +89,6 @@ During my internship, I designed and implemented the RFID tray tracking workflow
 The main scan-processing logic for the Barcode Scanner Input component is included here:
 
 - [ignition_barcode_scanner_onactionperformed.py](code/ignition_barcode_scanner_onactionperformed.py)
+
+  ### Scanner Input Regex
+- [scanner_regex.txt](code/scanner_regex.txt)
